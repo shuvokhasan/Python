@@ -7,4 +7,4 @@ print(name[0:6]) # characters from position 0 (included) to 6 (excluded)
 print(name[6:]) # slices till the last index
 print(name[:4]) # slices from the 1st index
 
-len(name) # Length of 'name
+len(name) # Length of 'name'
