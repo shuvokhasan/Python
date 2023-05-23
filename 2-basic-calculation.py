@@ -2,7 +2,7 @@ print(2 + 3) # additon
 
 print(2 - 3) # subtraction
 
-print(5 % 2) 
+print(5 % 2) # remainder
 
 print(3 ** 2) # Exponential
 
